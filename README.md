@@ -2,15 +2,6 @@
 
 This project scrapes TikTok (Google Play) reviews for a chosen time window, cleans and stores them for reuse, then generates an interactive HTML report (`review.html`).
 
-## Project Links
-
-- Repository root: [adrianwwwang/Tiktok-customer-review](https://github.com/adrianwwwang/Tiktok-customer-review)
-- HTML files in repo:
-  - [index.html](https://github.com/adrianwwwang/Tiktok-customer-review/blob/main/index.html)
-  - [review_spa.html](https://github.com/adrianwwwang/Tiktok-customer-review/blob/main/review_spa.html)
-  - [review_vsc.html](https://github.com/adrianwwwang/Tiktok-customer-review/blob/main/review_vsc.html)
-  - [review_cursor.html](https://github.com/adrianwwwang/Tiktok-customer-review/blob/main/review_cursor.html)
-
 ## Live HTML Pages (GitHub Pages)
 
 - Root SPA: [https://adrianwwwang.github.io/Tiktok-customer-review/](https://adrianwwwang.github.io/Tiktok-customer-review/)
