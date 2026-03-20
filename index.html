@@ -108,6 +108,11 @@
   </div>
 
   <script>
+    const cursorLogoPath = "cursor-logo.png";
+    document.querySelectorAll('img[alt="Cursor logo"]').forEach((img) => {
+      img.src = cursorLogoPath;
+    });
+
     const frame = document.getElementById("reportFrame");
     const tabs = Array.from(document.querySelectorAll(".tab"));
 
