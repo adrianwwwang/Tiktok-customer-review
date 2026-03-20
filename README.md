@@ -4,9 +4,9 @@ This project scrapes TikTok (Google Play) reviews for a chosen time window, clea
 
 ## Live HTML Pages (GitHub Pages)
 
-- Root SPA: [review_spa.html](https://adrianwwwang.github.io/TikTok-Customer-review-analysis/review_spa.html)
-- Dedicated VSC view: [review_vsc.html](https://adrianwwwang.github.io/TikTok-Customer-review-analysis/review_vsc.html)
-- Dedicated Cursor view: [review_cursor.html](https://adrianwwwang.github.io/TikTok-Customer-review-analysis/review_cursor.html)
+- Root SPA: [review_spa.html](https://adrianwwwang.github.io/Tiktok-customer-review/review_spa.html)
+- Dedicated VSC view: [review_vsc.html](https://adrianwwwang.github.io/Tiktok-customer-review/review_vsc.html)
+- Dedicated Cursor view: [review_cursor.html](https://adrianwwwang.github.io/Tiktok-customer-review/review_cursor.html)
 
 ## Setup
 
